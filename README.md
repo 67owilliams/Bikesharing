@@ -2,7 +2,7 @@
 [link to dashboard](https://public.tableau.com/profile/odane#!/vizhome/NYCCitiBike_16136832675070/NYCCitiBike)
 
 ## Purpose of Analysis:
-The purpose of this analysis is to gather data on the CitiBike Bikesharin gprogram in NY to pitch an idea to investors to start a similar bikesharing program in Des Moines.
+The purpose of this analysis is to gather data on the CitiBike Bikesharing program in NY to pitch an idea to investors to start a similar bikesharing program in Des Moines.
 
 ## Results:
 A majority of the rides are concluded within an hour.
